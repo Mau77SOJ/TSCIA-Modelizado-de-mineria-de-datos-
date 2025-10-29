@@ -1,0 +1,120 @@
+id_libro,nombre,id_autores,id_generos,id_formatos,precio
+1,Ficciones,1,3,1,15500.0
+2,El Aleph,1,3,1,14800.0
+3,El Aleph,1,3,2,9500.0
+4,Rayuela,2,9,1,18900.0
+5,Bestiario,2,3,1,12500.0
+6,Rayuela,2,9,2,11200.0
+7,La invención de Morel,3,1,1,13700.0
+8,El sueño de los héroes,3,1,1,14200.0
+9,El lobo estepario,4,9,1,16800.0
+10,Siddharta,4,9,1,15300.0
+11,Siddharta,4,9,2,8900.0
+12,Sin novedad en el frente,5,8,1,17500.0
+13,Tres camaradas,5,9,1,16200.0
+14,El Capital,6,5,1,25000.0
+15,Manifiesto Comunista,6,7,1,8500.0
+16,El Capital,6,5,2,15000.0
+17,El pájaro espino,7,9,1,19800.0
+18,Liberación animal,8,7,1,18500.0
+19,Ética práctica,8,7,2,12000.0
+20,María Antonieta,9,10,1,21500.0
+21,El mundo de ayer,9,10,1,19900.0
+22,Novela de ajedrez,9,9,1,11500.0
+23,La interpretación de los sueños,10,11,1,28000.0
+24,El malestar en la cultura,10,11,1,14500.0
+25,El malestar en la cultura,10,11,2,9800.0
+26,El Alquimista,11,9,1,16500.0
+27,Brida,11,9,1,15800.0
+28,El Alquimista,11,9,2,10500.0
+29,Memorias póstumas de Brás Cubas,12,9,1,17200.0
+30,Don Casmurro,12,9,1,16800.0
+31,Doña Flor y sus dos maridos,13,9,1,18200.0
+32,Capitanes de la arena,13,9,1,16500.0
+33,Maigret tiende una trampa,14,1,1,13500.0
+34,El ahorcado de Saint-Pholien,14,1,1,12800.0
+35,Las aventuras de Tintín,15,4,1,22000.0
+36,Tintín en el Tíbet,15,1,1,18500.0
+37,Un puente sobre el Drina,16,8,1,19500.0
+38,El cuento de la criada,17,3,1,20500.0
+39,Alias Grace,17,9,1,19200.0
+40,El cuento de la criada,17,3,2,13000.0
+41,Demasiada felicidad,18,9,1,16800.0
+42,La vida de las mujeres,18,9,1,17500.0
+43,La casa de los espíritus,19,9,1,21000.0
+44,Paula,19,10,1,18500.0
+45,La casa de los espíritus,19,9,2,12800.0
+46,Veinte poemas de amor,20,9,1,12500.0
+47,Confieso que he vivido,20,10,1,19800.0
+48,Los detectives salvajes,21,9,1,24500.0
+49,2666,21,9,1,32000.0
+50,Cien años de soledad,22,9,1,22500.0
+51,El amor en los tiempos del cólera,22,9,1,20800.0
+52,Cien años de soledad,22,9,2,14500.0
+53,La última escala del Tramp Steamer,23,1,1,17800.0
+54,Sorgo rojo,24,8,1,19500.0
+55,La vida y la muerte me están desgastando,24,9,1,21000.0
+56,Diario de un loco,25,9,1,14500.0
+57,Cuentos completos,26,4,1,28500.0
+58,La sirenita y otros cuentos,26,4,1,15800.0
+59,El patito feo,26,4,2,6500.0
+60,El concepto de la angustia,27,6,1,22000.0
+61,Temor y temblor,27,6,1,18500.0
+62,It (Eso),28,2,1,26500.0
+63,El resplandor,28,2,1,23800.0
+64,Cementerio de animales,28,2,1,21500.0
+65,It (Eso),28,2,2,16000.0
+66,El viejo y el mar,29,9,1,14800.0
+67,Por quién doblan las campanas,29,8,1,22500.0
+68,El viejo y el mar,29,9,2,9500.0
+69,Cosmos,30,11,1,32000.0
+70,Un punto azul pálido,30,11,1,28500.0
+71,Cosmos,30,11,2,18000.0
+72,Steve Jobs,31,10,1,29500.0
+73,Einstein: Su vida y su universo,31,10,1,31000.0
+74,Leonardo da Vinci,31,10,1,33500.0
+75,Don Quijote de la Mancha,32,1,1,26000.0
+76,Novelas ejemplares,32,9,1,19500.0
+77,Don Quijote de la Mancha,32,1,2,15000.0
+78,Bodas de sangre,33,9,1,13500.0
+79,La casa de Bernarda Alba,33,9,1,12800.0
+80,El capitán Alatriste,34,1,1,19800.0
+81,La tabla de Flandes,34,1,1,18500.0
+82,El club Dumas,34,1,1,20200.0
+83,Huasipungo,35,9,1,16500.0
+84,Las Catilinarias,36,7,1,15800.0
+85,Veinte mil leguas de viaje submarino,37,1,1,18900.0
+86,La vuelta al mundo en 80 días,37,1,1,16500.0
+87,Viaje al centro de la Tierra,37,1,1,17200.0
+88,Veinte mil leguas de viaje submarino,37,1,2,11500.0
+89,El conde de Montecristo,38,1,1,28500.0
+90,Los tres mosqueteros,38,1,1,24000.0
+91,El conde de Montecristo,38,1,2,16500.0
+92,Los Miserables,39,8,1,32000.0
+93,Nuestra Señora de París,39,8,1,26500.0
+94,Los Miserables,39,8,2,18500.0
+95,El extranjero,40,9,1,15500.0
+96,La peste,40,9,1,17800.0
+97,El mito de Sísifo,40,9,1,16200.0
+98,El capital en el siglo XXI,41,5,1,38000.0
+99,Capital e ideología,41,5,1,42000.0
+100,El nombre de la rosa,42,8,1,24500.0
+101,El péndulo de Foucault,42,9,1,26800.0
+102,El nombre de la rosa,42,8,2,14500.0
+103,La Divina Comedia,43,3,1,22000.0
+104,Las ciudades invisibles,44,3,1,18500.0
+105,Si una noche de invierno un viajero,44,9,1,19200.0
+106,Tokio blues,45,9,1,21500.0
+107,1Q84,45,3,1,35000.0
+108,Kafka en la orilla,45,9,1,23800.0
+109,Tokio blues,45,9,2,13500.0
+110,El mar de la fertilidad,46,9,1,38000.0
+111,Confesiones de una máscara,46,9,1,19500.0
+112,El viaje de Chihiro - Novela,47,4,1,24500.0
+113,Mi vecino Totoro - Libro ilustrado,47,4,1,28000.0
+114,El laberinto de la soledad,48,9,1,18500.0
+115,Sor Juana Inés de la Cruz,48,10,1,21000.0
+116,La muerte de Artemio Cruz,49,8,1,19800.0
+117,Aura,49,9,1,14500.0
+118,Como agua para chocolate,50,9,1,17500.0
+119,Tan veloz como el deseo,50,9,1,18200.0

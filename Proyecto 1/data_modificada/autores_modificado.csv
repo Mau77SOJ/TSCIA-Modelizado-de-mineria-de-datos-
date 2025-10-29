@@ -1,0 +1,53 @@
+0,1,2
+id_autores,nombre,id_paises
+1,Jorge Luis Borges,1
+2,Julio Cortázar,1
+3,Adolfo Bioy Casares,1
+4,Hermann Hesse,2
+5,Erich Maria Remarque,2
+6,Karl Marx,2
+7,Colleen McCullough,4
+8,Peter Singer,4
+9,Stefan Zweig,5
+10,Sigmund Freud,5
+11,Paulo Coelho,7
+12,Machado de Assis,7
+13,Jorge Amado,7
+14,Georges Simenon,8
+15,Hergé,8
+16,Ivo Andrić,9
+17,Margaret Atwood,10
+18,Alice Munro,10
+19,Isabel Allende,11
+20,Pablo Neruda,11
+21,Roberto Bolaño,11
+22,Gabriel García Márquez,12
+23,Álvaro Mutis,12
+24,Mo Yan,13
+25,Lu Xun,13
+26,Hans Christian Andersen,14
+27,Søren Kierkegaard,14
+28,Stephen King,15
+29,Ernest Hemingway,15
+30,Carl Sagan,15
+31,Walter Isaacson,15
+32,Miguel de Cervantes,16
+33,Federico García Lorca,16
+34,Arturo Pérez-Reverte,16
+35,Jorge Icaza,17
+36,Juan Montalvo,17
+37,Jules Verne,19
+38,Alexandre Dumas,19
+39,Victor Hugo,19
+40,Albert Camus,19
+41,Thomas Piketty,19
+42,Umberto Eco,20
+43,Dante Alighieri,20
+44,Italo Calvino,20
+45,Haruki Murakami,21
+46,Yukio Mishima,21
+47,Hayao Miyazaki,21
+48,Octavio Paz,22
+49,Carlos Fuentes,22
+50,Laura Esquivel,22
+51,Nico Núñez,1

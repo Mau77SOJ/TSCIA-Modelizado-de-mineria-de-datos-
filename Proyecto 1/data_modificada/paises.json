@@ -1,0 +1,98 @@
+[
+  {
+    "campo_0": "id_paises",
+    "campo_1": "descripcion"
+  },
+  {
+    "campo_0": "1",
+    "campo_1": "Argentina"
+  },
+  {
+    "campo_0": "2",
+    "campo_1": "Alemania"
+  },
+  {
+    "campo_0": "3",
+    "campo_1": "Armenia"
+  },
+  {
+    "campo_0": "4",
+    "campo_1": "Australia"
+  },
+  {
+    "campo_0": "5",
+    "campo_1": "Austria"
+  },
+  {
+    "campo_0": "6",
+    "campo_1": "Arabia Saudita"
+  },
+  {
+    "campo_0": "7",
+    "campo_1": "Brasil"
+  },
+  {
+    "campo_0": "8",
+    "campo_1": "Bélgica"
+  },
+  {
+    "campo_0": "9",
+    "campo_1": "Bosnia"
+  },
+  {
+    "campo_0": "10",
+    "campo_1": "Cánada"
+  },
+  {
+    "campo_0": "11",
+    "campo_1": "Chile"
+  },
+  {
+    "campo_0": "12",
+    "campo_1": "Colombia"
+  },
+  {
+    "campo_0": "13",
+    "campo_1": "China"
+  },
+  {
+    "campo_0": "14",
+    "campo_1": "Dinamarca"
+  },
+  {
+    "campo_0": "15",
+    "campo_1": "Estados Unidos"
+  },
+  {
+    "campo_0": "16",
+    "campo_1": "España"
+  },
+  {
+    "campo_0": "17",
+    "campo_1": "Ecuador"
+  },
+  {
+    "campo_0": "18",
+    "campo_1": "Emiratos Arabes Unidos"
+  },
+  {
+    "campo_0": "19",
+    "campo_1": "Francia"
+  },
+  {
+    "campo_0": "20",
+    "campo_1": "Italia"
+  },
+  {
+    "campo_0": "21",
+    "campo_1": "Japón"
+  },
+  {
+    "campo_0": "22",
+    "campo_1": "México"
+  },
+  {
+    "campo_0": "23",
+    "campo_1": "Lituania"
+  }
+]

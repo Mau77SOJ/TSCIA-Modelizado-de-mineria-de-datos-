@@ -1,0 +1,41 @@
+id_clientes,nombre,id_localidades,domicilio
+1,Juan Pérez,1,Av. Libertador 1234
+2,María González,2,Calle 25 de Mayo 567
+3,Carlos Rodríguez,3,Av. Hipólito Yrigoyen 890
+4,Ana Martínez,4,Mitre 2345
+5,Luis Fernández,5,San Martín 678
+6,Laura Sánchez,6,Belgrano 1122
+7,Diego López,7,Av. Rivadavia 3344
+8,Sofía Torres,8,Av. del Libertador 5566
+9,Roberto Díaz,9,Av. Cazón 7788
+10,Gabriela Romero,10,Av. Calchaquí 9900
+11,Martín Silva,11,Calle 7 entre 47 y 48
+12,Carolina Ruiz,12,Hipólito Yrigoyen 1234
+13,Federico Morales,13,Alsina 567
+14,Valeria Castro,14,Almirante Brown 890
+15,Alejandro Vargas,15,Av. Santa Fe 2345
+16,Patricia Acosta,16,Av. Cabildo 3456
+17,Gustavo Herrera,17,Montes de Oca 678
+18,Lucía Medina,18,Defensa 1122
+19,Sebastián Ortiz,19,Juana Manso 3344
+20,Florencia Ríos,20,Av. Rivadavia 11567
+21,Pablo Navarro,21,Av. Pueyrredón 8899
+22,Cecilia Vega,22,Av. Directorio 5566
+23,Maximiliano Giménez,23,Av. del Libertador 7788
+24,Andrea Molina,1,Carlos Casares 456
+25,Javier Núñez,2,San Lorenzo 789
+26,Verónica Cabrera,3,Boedo 321
+27,Hernán Gutiérrez,4,Pavón 654
+28,Daniela Rojas,5,Ballester 987
+29,Nicolás Figueroa,6,San Juan 147
+30,Romina Espinosa,7,Av. Eva Perón 258
+31,Facundo Ramos,8,Av. Centenario 369
+32,Agustina Mendoza,9,Liniers 741
+33,Matías Flores,10,Av. La Plata 852
+34,Camila Benítez,11,Diagonal 74 N° 963
+35,Lucas Iglesias,12,9 de Julio 159
+36,Natalia Peralta,13,Vergara 357
+37,Ezequiel Sosa,14,Necochea 753
+38,Yamila Cáceres,15,Córdoba 951
+39,Rodrigo Arias,16,Juramento 159
+40,Micaela Luna,17,Brandsen 357

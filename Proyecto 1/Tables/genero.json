@@ -1,0 +1,46 @@
+[
+  {
+    "id_generos": 1,
+    "descripcion": "Aventura"
+  },
+  {
+    "id_generos": 2,
+    "descripcion": "Terror"
+  },
+  {
+    "id_generos": 3,
+    "descripcion": "Fantasía"
+  },
+  {
+    "id_generos": 4,
+    "descripcion": "Infantíl"
+  },
+  {
+    "id_generos": 5,
+    "descripcion": "Economía y Finanzas"
+  },
+  {
+    "id_generos": 6,
+    "descripcion": "Teología"
+  },
+  {
+    "id_generos": 7,
+    "descripcion": "Política"
+  },
+  {
+    "id_generos": 8,
+    "descripcion": "História"
+  },
+  {
+    "id_generos": 9,
+    "descripcion": "Novela"
+  },
+  {
+    "id_generos": 10,
+    "descripcion": "Biografía"
+  },
+  {
+    "id_generos": 11,
+    "descripcion": "Ciencia"
+  }
+]
