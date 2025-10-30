@@ -4,7 +4,6 @@ Un dashboard interactivo para explorar, comparar y proyectar emisiones de CO₂ 
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 📋 Descripción
 
@@ -175,5 +174,6 @@ Las contribuciones son bienvenidas. Para cambios importantes:
   - Crisis económicas
   - Innovaciones tecnológicas
   - Eventos imprevistos
+
 
 - **Datos faltantes**: Algunos países tienen datos incompletos o desactualizados
